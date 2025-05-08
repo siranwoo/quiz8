@@ -4,8 +4,8 @@
 
 The **animated curved ribbons** and smooth 3D motion in *Spotify Wrapped 2023* are visually engaging. I want to incorporate the flowing ribbon effect and vibrant gradients into my project to present data or narrative in a more emotionally expressive and playful way. This aligns with the assignment’s aim to explore design that enhances audience engagement through motion and interactivity.
 **Images:**
-![Spotify1](/Users/reginawu/Documents/25S1/IDEA9103/quiz8/assets/Spotify1.png)
-![Spotify2](/Users/reginawu/Documents/25S1/IDEA9103/quiz8/assets/Spotify2.png)
+![Spotify1](assets/Spotify1.png)
+![Spotify2](assets/Spotify2.png)
 
 Sources:
 - [Spotify Newsroom](https://newsroom.spotify.com/2023-wrapped/)
