@@ -14,7 +14,7 @@ Sources:
 
 ### Technique: *Kaleidoscope Effect with Repetition in p5.js*
 
-This **p5.js kaleidoscope example** creates a captivating pattern by repeatedly rotating and mirroring triangular sections of a canvas. It reflects the kind of geometric repetition and rhythmic motion seen in Spotify Wrapped’s animated visuals. I could use this technique to design dynamic, abstract visuals that react to music or data, reinforcing the wrapped theme’s energy and personalization.
+This **p5.js kaleidoscope example** creates a captivating pattern by repeatedly rotating and mirroring triangular sections of a canvas. It reflects the kind of geometric repetition and rhythmic motion seen in Spotify Wrapped’s animated visuals. I could use this technique to design dynamic, abstract visuals that react to music or data, reinforcing the wrapped theme’s energy and personalisation.
 
 ![Kaleidoscope Effect Screenshot](assets/kaleidoscope.png)  
 
