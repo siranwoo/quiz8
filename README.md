@@ -16,8 +16,8 @@ Sources:
 
 This **p5.js kaleidoscope example** creates a captivating pattern by repeatedly rotating and mirroring triangular sections of a canvas. It reflects the kind of geometric repetition and rhythmic motion seen in Spotify Wrapped’s animated visuals. I could use this technique to design dynamic, abstract visuals that react to music or data, reinforcing the wrapped theme’s energy and personalization.
 
-![Kaleidoscope Effect Screenshot](https://p5js.org/assets/examples/assets/flower.jpg)  
-*A rotating symmetrical pattern inspired by the Spotify Wrapped visual language*
+![Kaleidoscope Effect Screenshot](assets/kaleidoscope.png)  
+
 
 **Link to example code:**  
 👉 [https://p5js.org/examples/repetition-kaleidoscope/](https://p5js.org/examples/repetition-kaleidoscope/)
